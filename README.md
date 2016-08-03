@@ -1,6 +1,6 @@
 # A Basic Webpack/Typescript Build System
 
-This is the source code for the blog post [Configuring Webpack with Typescript]([)http://david-barreto.com/configuring-webpack-with-typescript/).
+This is the source code for the blog post [Configuring Webpack with Typescript](http://david-barreto.com/configuring-webpack-with-typescript/).
 
 To install and run:
 
